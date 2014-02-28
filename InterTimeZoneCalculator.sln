@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterTimeZoneCalculator", "InterTimeZoneCalculator\InterTimeZoneCalculator.csproj", "{06D50C0E-62D3-4D85-A1F8-4A9AA3A1B3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D50C0E-62D3-4D85-A1F8-4A9AA3A1B3DB}.Debug|x86.ActiveCfg = Debug|x86
+		{06D50C0E-62D3-4D85-A1F8-4A9AA3A1B3DB}.Debug|x86.Build.0 = Debug|x86
+		{06D50C0E-62D3-4D85-A1F8-4A9AA3A1B3DB}.Release|x86.ActiveCfg = Release|x86
+		{06D50C0E-62D3-4D85-A1F8-4A9AA3A1B3DB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
